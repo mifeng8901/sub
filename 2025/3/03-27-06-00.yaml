@@ -1,0 +1,201 @@
+proxies:
+  - name: AE-阿联酋-迪拜-Oracle Corporation-1
+    server: dibai.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: dibai.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: AU-澳大利亚-悉尼-Oracle Corporation-1
+    server: aodaliya1.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: adly1.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: AU-澳大利亚-悉尼-Oracle Corporation-2
+    server: aodaliya2.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: aodaliya2.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: BR-巴西-São Paulo-Oracle Corporation-1
+    server: bxsbl.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: bxsbl.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: BR-巴西-Vinhedo-Oracle Corporation-1
+    server: bxwnd.959555.xyz
+    port: 11000
+    udp: true
+    skip-cert-verify: true
+    sni: bxwnd.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: CA-加拿大-蒙特利尔-Oracle Corporation-1
+    server: jianada.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: jianada.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: CH-瑞士-苏黎世-Oracle Corporation-1
+    server: ruishi.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: ruishi.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: CL-智利-圣地亚哥-Oracle Corporation-1
+    server: zhili.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: zhili.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: DE-德国-法兰克福-Oracle Corporation-1
+    server: deguo.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: deguo.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: ES-西班牙-马德里-Oracle Corporation-1
+    server: xibanya.959555.xyz
+    port: 11000
+    udp: true
+    skip-cert-verify: true
+    sni: xibanya.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: FR-法国-巴黎-Oracle Corporation-1
+    server: faguo.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: faguo.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: IN-印度-孟买-Oracle Corporation-1
+    server: yindu1.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: yindu1.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: IN-印度-孟买-Oracle Corporation-2
+    server: yindu2.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: yindu2.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: JP-日本-东京-Oracle Corporation-1
+    server: xiaorizi.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: xiaorizi.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: KR-韩国-首尔特别市-Oracle Corporation-1
+    server: hanguo1.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: hanguo1.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: KR-韩国-首尔特别市-Oracle Corporation-2
+    server: hanguo2.959555.xyz
+    port: 12000
+    udp: true
+    skip-cert-verify: true
+    sni: hanguo2.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: MX-墨西哥-Querétaro-Oracle Corporation-1
+    server: mxg.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: mxg.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: NL-荷兰-阿姆斯特丹-Oracle Corporation-1
+    server: helan.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: helan.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: SA-沙特阿拉伯-吉达-Oracle Corporation-1
+    server: shatejida.959555.xyz
+    port: 12000
+    udp: true
+    skip-cert-verify: false
+    sni: shatejida.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: SA-沙特阿拉伯-吉达-Oracle Corporation-2
+    server: shatejida2.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: shatejida2.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: SE-瑞典-斯德哥尔摩-Oracle Corporation-1
+    server: ruidian.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: ruidian.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: SG-新加坡-新加坡-Oracle Corporation-1
+    server: sgxi.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: sgxi.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: US-美国-凤凰城-Oracle Corporation-1
+    server: us.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: us.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: US-美国-凤凰城-Oracle Corporation-2
+    server: us2.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: us2.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
+  - name: ZA-南非-约翰内斯堡-Oracle Corporation-1
+    server: nanfei.959555.xyz
+    port: 10000
+    udp: true
+    skip-cert-verify: true
+    sni: nanfei.959555.xyz
+    type: hysteria2
+    password: 172a1deb-dc1f-4f0d-ba68-0791fe333a0c
