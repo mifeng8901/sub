@@ -1,0 +1,211 @@
+proxies:
+  - type: hysteria2
+    name: GB-英国-倫敦金融城-Clouvider Limited-1
+    server: gb1.dexlos.com
+    port: 1734
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: gb1.dexlos.com
+  - type: hysteria2
+    name: GB-英国-倫敦金融城-Clouvider Limited-2
+    server: gb2.dexlos.com
+    port: 3901
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: gb2.dexlos.com
+  - type: hysteria2
+    name: GB-英国-倫敦金融城-Clouvider Limited-3
+    server: gb3.dexlos.com
+    port: 5617
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: gb3.dexlos.com
+  - type: hysteria2
+    name: GB-英国-倫敦金融城-Clouvider Limited-4
+    server: gb4.dexlos.com
+    port: 7001
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: gb4.dexlos.com
+  - type: hysteria2
+    name: GB-英国-倫敦金融城-Clouvider Limited-5
+    server: gb5.dexlos.com
+    port: 9020
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: gb5.dexlos.com
+  - type: hysteria2
+    name: HK-香港-中環-Hong Kong Telecommunications (HKT) Limited Mass Internet-1
+    server: hk2.ddns-link-b5.uk
+    port: 3663
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: hk2.ddns-link-b5.uk
+  - type: hysteria2
+    name: HK-香港-中環-PCCW IMS Limited-1
+    server: hk4.ddns-link-b5.uk
+    port: 7459
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: hk4.ddns-link-b5.uk
+  - type: hysteria2
+    name: HK-香港-中環-PCCW IMS Limited-2
+    server: hk5.ddns-link-b5.uk
+    port: 9854
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: hk5.ddns-link-b5.uk
+  - type: hysteria2
+    name: HK-香港-深水埗區-Hong Kong Telecommunications (HKT) Limited Mass Internet-1
+    server: hk3.ddns-link-b5.uk
+    port: 5272
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: hk3.ddns-link-b5.uk
+  - name: HK-香港-香港-Amazon.com, Inc.-1
+    type: vless
+    server: 1a2cfa02.ddns-link-b5.uk
+    port: 10126
+    uuid: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    cipher: auto
+    tls: true
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+    servername: swcdn.apple.com
+    reality-opts:
+      public-key: wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE
+      short-id: 686c0ef0
+  - type: hysteria2
+    name: JP-日本-东京-Amazon Technologies Inc.-1
+    server: jp2.dexlos.com
+    port: 3709
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: jp2.dexlos.com
+  - type: hysteria2
+    name: JP-日本-东京-Amazon Technologies Inc.-2
+    server: jp3.dexlos.com
+    port: 5674
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: jp3.dexlos.com
+  - type: hysteria2
+    name: JP-日本-东京-Amazon Technologies Inc.-3
+    server: jp4.dexlos.com
+    port: 7212
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: jp4.dexlos.com
+  - type: hysteria2
+    name: JP-日本-东京-Amazon.com, Inc.-1
+    server: jp1.dexlos.com
+    port: 1353
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: jp1.dexlos.com
+  - type: hysteria2
+    name: JP-日本-东京-Amazon.com, Inc.-2
+    server: jp5.dexlos.com
+    port: 9839
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: jp5.dexlos.com
+  - type: hysteria2
+    name: SG-新加坡-新加坡-Amazon Technologies Inc-1
+    server: sg1.dexlos.com
+    port: 1397
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: sg1.dexlos.com
+  - type: hysteria2
+    name: SG-新加坡-新加坡-Amazon Technologies Inc.-1
+    server: sg2.dexlos.com
+    port: 3437
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: sg2.dexlos.com
+  - type: hysteria2
+    name: SG-新加坡-新加坡-Amazon Technologies Inc.-2
+    server: sg4.dexlos.com
+    port: 7600
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: sg4.dexlos.com
+  - type: hysteria2
+    name: SG-新加坡-新加坡-Amazon.com, Inc.-1
+    server: sg3.dexlos.com
+    port: 5415
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: sg3.dexlos.com
+  - type: hysteria2
+    name: SG-新加坡-新加坡-Amazon.com, Inc.-2
+    server: sg5.dexlos.com
+    port: 9471
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: sg5.dexlos.com
+  - type: hysteria2
+    name: TW-台湾-台北市-Chunghwa Telecom Co., Ltd.-1
+    server: tw1.ddns-link-b5.uk
+    port: 1385
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: tw1.ddns-link-b5.uk
+  - type: hysteria2
+    name: TW-台湾-台北市-Chunghwa Telecom Co., Ltd.-2
+    server: tw2.ddns-link-b5.uk
+    port: 4000
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: tw2.ddns-link-b5.uk
+  - type: hysteria2
+    name: TW-台湾-台北市-Chunghwa Telecom Co., Ltd.-3
+    server: tw3.ddns-link-b5.uk
+    port: 5772
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: tw3.ddns-link-b5.uk
+  - type: hysteria2
+    name: TW-台湾-台北市-Chunghwa Telecom Co., Ltd.-4
+    server: tw5.ddns-link-b5.uk
+    port: 9874
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: tw5.ddns-link-b5.uk
+  - type: hysteria2
+    name: US-美国-波特蘭-Amazon.com, Inc.-1
+    server: us1.dexlos.com
+    port: 1224
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: us1.dexlos.com
+  - type: hysteria2
+    name: US-美国-波特蘭-Amazon.com, Inc.-2
+    server: us4.dexlos.com
+    port: 7134
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: us4.dexlos.com
+  - type: hysteria2
+    name: US-美国-洛杉矶-BlueVPS OU-1
+    server: us2.dexlos.com
+    port: 3375
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: us2.dexlos.com
+  - type: hysteria2
+    name: US-美国-洛杉矶-BlueVPS OU-2
+    server: us3.dexlos.com
+    port: 5077
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: us3.dexlos.com
+  - type: hysteria2
+    name: US-美国-洛杉矶-BlueVPS OU-3
+    server: us5.dexlos.com
+    port: 9131
+    password: D9BE3463-2E55-4694-9212-D4B3D7F9ED67
+    udp: true
+    sni: us5.dexlos.com
