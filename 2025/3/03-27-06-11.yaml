@@ -1,0 +1,71 @@
+proxies:
+  - name: JP-日本-东京-Amazon Technologies Inc.-1
+    server: pbcnx-g05.jp03-7d22-vm0.entry.fr0307a.art
+    port: 21585
+    type: vmess
+    uuid: 199d68a2-bf9c-3061-9dc8-9494121fb2db
+    alterId: 1
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    udp: true
+  - name: JP-日本-东京-Amazon Technologies Inc.-2
+    server: hhqhg-g05.jp05-6786-vm0.entry.fr0307a.art
+    port: 46486
+    type: vmess
+    uuid: 199d68a2-bf9c-3061-9dc8-9494121fb2db
+    alterId: 1
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: JP-日本-东京-Amazon Technologies Inc.-3
+    server: 1o4mp-g05.jp07-1f28-vm0.entry.fr0307a.art
+    port: 28787
+    type: vmess
+    uuid: 199d68a2-bf9c-3061-9dc8-9494121fb2db
+    alterId: 1
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: JP-日本-东京-Amazon.com, Inc.-1
+    server: u70q9-g05.jp05-vm5.entry.rtysjur.quest
+    port: 64658
+    type: vmess
+    uuid: 199d68a2-bf9c-3061-9dc8-9494121fb2db
+    alterId: 1
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: JP-日本-东京-Amazon.com, Inc.-2
+    server: xrfy3-g05.jp06-vm5.entry.rtysjur.quest
+    port: 666
+    type: vmess
+    uuid: 199d68a2-bf9c-3061-9dc8-9494121fb2db
+    alterId: 1
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: JP-日本-东京-Amazon.com, Inc.-3
+    server: 7hrye-g05.jp02-9a99-vm0.entry.fr0307a.art
+    port: 11777
+    type: vmess
+    uuid: 199d68a2-bf9c-3061-9dc8-9494121fb2db
+    alterId: 1
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+    udp: true
+  - name: JP-日本-东京-Amazon.com, Inc.-4
+    server: cuf8i-g05.jp06-7c5a-vm0.entry.fr0307a.art
+    port: 28787
+    type: vmess
+    uuid: 199d68a2-bf9c-3061-9dc8-9494121fb2db
+    alterId: 1
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    udp: true
