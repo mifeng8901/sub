@@ -1,0 +1,67 @@
+proxies:
+  - name: CN-中国-乌恰-Baxet Group Inc.-1
+    type: vmess
+    server: 212.192.12.56
+    port: 21032
+    uuid: b20025a3-aaa1-499a-ab92-17277a319a4b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+  - name: CN-中国-乌恰-Baxet Group Inc.-2
+    type: vmess
+    server: 212.192.13.68
+    port: 23032
+    uuid: b20025a3-aaa1-499a-ab92-17277a319a4b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+  - name: CN-中国-乌恰-Baxet Group Inc.-3
+    server: 212.192.12.56
+    port: 31003
+    up: 100
+    down: 100
+    skip-cert-verify: true
+    type: hysteria2
+    password: b20025a3-aaa1-499a-ab92-17277a319a4b
+    obfs: salamander
+    obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
+  - name: DE-德国-法兰克福-Baxet Group Inc.-1
+    type: vmess
+    server: 5.39.252.72
+    port: 20033
+    uuid: b20025a3-aaa1-499a-ab92-17277a319a4b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+  - name: DE-德国-法兰克福-Baxet Group Inc.-2
+    server: 5.39.252.72
+    port: 32008
+    up: 100
+    down: 100
+    skip-cert-verify: true
+    type: hysteria2
+    password: b20025a3-aaa1-499a-ab92-17277a319a4b
+    obfs: salamander
+    obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
+  - name: RU-俄罗斯联邦-莫斯科-LLC Baxet-1
+    type: vmess
+    server: 195.133.5.127
+    port: 23032
+    uuid: b20025a3-aaa1-499a-ab92-17277a319a4b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+  - name: RU-俄罗斯联邦-莫斯科-LLC Baxet-2
+    server: 195.133.5.127
+    port: 33007
+    up: 100
+    down: 100
+    skip-cert-verify: true
+    type: hysteria2
+    password: b20025a3-aaa1-499a-ab92-17277a319a4b
+    obfs: salamander
+    obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
