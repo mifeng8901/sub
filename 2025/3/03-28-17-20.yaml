@@ -1,0 +1,61 @@
+proxies:
+  - name: CN-中国-北京-Hangzhou Alibaba Advertising Co-1
+    server: 47.92.152.169
+    type: vmess
+    country: 🇨🇳 CN
+    port: 50002
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: CN-中国-合肥-China Unicom CHINA169 Anhui Province Network-1
+    server: 112.132.215.12
+    type: vmess
+    country: 🇨🇳 CN
+    port: 50002
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /ivideos.sbs/linkws
+    servername: ury-unit-c030ehei8.poget71138.workers.dev
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: CN-中国-广州市-China Mobile-1
+    server: 183.236.51.36
+    type: vmess
+    country: 🇨🇳 CN
+    port: 59003
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: CN-中国-青岛市-Hangzhou Alibaba Advertising Co-1
+    server: 47.104.186.133
+    type: vmess
+    country: 🇨🇳 CN
+    port: 50002
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    network: tcp
+    ws-path: /afrhms16v.bestxray.buzz/linkws
+    http-opts: {}
+    h2-opts: {}
+    skip-cert-verify: true
+  - name: IS-冰岛-哈夫纳夫约杜尔-Advania Island ehf-1
+    server: 37.235.49.152
+    type: ss
+    port: 989
+    udp: true
+    password: f8f7aCzcPKbsF8p3
+    cipher: aes-256-cfb
