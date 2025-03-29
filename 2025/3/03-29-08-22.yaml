@@ -1,0 +1,305 @@
+proxies:
+  - name: GB-英国-伦敦-Amazon Technologies Inc.-1
+    type: vless
+    server: yijia-uk.sanguayun.com
+    port: 21627
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: chrome
+  - name: GB-英国-伦敦-Amazon Technologies Inc.-2
+    type: vless
+    server: yijia-uk.sanguayun.com
+    port: 21961
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: safari
+  - name: GB-英国-伦敦-Amazon Technologies Inc.-3
+    type: vless
+    server: yijia-uk.sanguayun.com
+    port: 21372
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: firefox
+  - name: JP-日本-东京-Amazon Technologies Inc.-1
+    type: vless
+    server: yijia-jp.sanguayun.com
+    port: 21377
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: safari
+  - name: JP-日本-东京-Amazon Technologies Inc.-2
+    type: vless
+    server: yijia-jp.sanguayun.com
+    port: 21961
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: chrome
+  - name: JP-日本-东京-Amazon Technologies Inc.-3
+    type: vless
+    server: yijia-jp.sanguayun.com
+    port: 21819
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: edge
+  - name: JP-日本-东京-Amazon Technologies Inc.-4
+    type: vless
+    server: yijia-jp.sanguayun.com
+    port: 21655
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: safari
+  - name: KR-韩国-首尔特别市-Amazon.com, Inc.-1
+    type: vless
+    server: yijia-kr.sanguayun.com
+    port: 21041
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: safari
+  - name: KR-韩国-首尔特别市-Amazon.com, Inc.-2
+    type: vless
+    server: yijia-kr.sanguayun.com
+    port: 21350
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: chrome
+  - name: KR-韩国-首尔特别市-Amazon.com, Inc.-3
+    type: vless
+    server: yijia-kr.sanguayun.com
+    port: 21430
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: qq
+  - name: KR-韩国-首尔特别市-Amazon.com, Inc.-4
+    type: vless
+    server: yijia-kr.sanguayun.com
+    port: 21168
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: safari
+  - name: SG-新加坡-新加坡-Amazon.com, Inc.-1
+    type: vless
+    server: yijia-sg.sanguayun.com
+    port: 21797
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: ios
+  - name: SG-新加坡-新加坡-Amazon.com, Inc.-2
+    type: vless
+    server: yijia-sg.sanguayun.com
+    port: 21771
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: safari
+  - name: SG-新加坡-新加坡-Amazon.com, Inc.-3
+    type: vless
+    server: yijia-sg.sanguayun.com
+    port: 21189
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: chrome
+  - name: SG-新加坡-新加坡-Amazon.com, Inc.-4
+    type: vless
+    server: yijia-sg.sanguayun.com
+    port: 21293
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: firefox
+  - name: US-美国-波特蘭-Amazon.com, Inc.-1
+    type: vless
+    server: yijia-us.sanguayun.com
+    port: 21452
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: firefox
+  - name: US-美国-波特蘭-Amazon.com, Inc.-2
+    type: vless
+    server: yijia-us.sanguayun.com
+    port: 21425
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: firefox
+  - name: US-美国-波特蘭-Amazon.com, Inc.-3
+    type: vless
+    server: yijia-us.sanguayun.com
+    port: 21719
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: firefox
+  - name: US-美国-波特蘭-Amazon.com, Inc.-4
+    type: vless
+    server: yijia-us.sanguayun.com
+    port: 21393
+    uuid: 4b640b99-0071-4321-bf84-f769bb1213ee
+    alterId: 0
+    cipher: auto
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    skip-cert-verify: false
+    servername: s0.awsstatic.com
+    reality-opts:
+      public-key: K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU
+      short-id: null
+    client-fingerprint: chrome
